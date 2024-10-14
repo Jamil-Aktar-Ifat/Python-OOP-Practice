@@ -37,8 +37,8 @@ a_person = Person("Jamil", 2002, 72)
 person_list = [Person("Jamil", 2002, 74),
                Person("Aktar", 2003),
                Person("Ifat", 2004, 75),
-               Person("Zora", 2005 ),
-               Person("Pamiri", 2006, 77)]
+               Person("Zo", 2005 ),
+               Person("Pi", 2006, 77)]
 
 
 # for person in person_list:
